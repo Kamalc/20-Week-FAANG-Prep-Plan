@@ -13,16 +13,16 @@
 ## 📚 Resources
 
 **C++ Problem‑Solving**  
-- *Mastering Critical Skills for Coding Interviews C++* — Dr. Moustafa Saad
+- [*Mastering Critical Skills for Coding Interviews C++* — Dr. Moustafa Saad](https://www.udemy.com/share/10531a3@hOrNefbobQrHyxv8F7Wbd9r2u_eQmr46bbkkJeHvtZmNcY0_G9wJlcMKgApAxQkD)
 
 **C# OOP**  
-- *C# Intermediate: Classes, Interfaces and OOP*
+- [*C# Intermediate: Classes, Interfaces and OOP* — Mosh Hamedani](https://www.udemy.com/share/1013li3@RNjXIGK2onWrhZmtFjm_iWxIi99cNJ4_iZwoAL65xAxGdZrvD7Mx01nmIiP8XAxs)
 
 **Design Patterns in C#**  
-- *Design Patterns using C# and .NET Core*
+- [*Design Patterns using C# and .NET Core*](https://www.udemy.com/share/10240a3@SreKzdrcvGzXmfvIXW_ikHfVWI9B2gsytORNwbFPiHec7r2MrABU3Mv3rXKP7kF7)
 
 **System Design**  
-- *Rocking System Design* — Rajdeep Saha
+- [*Rocking System Design* — Rajdeep Saha](https://www.udemy.com/share/105kui3@-e2kNGoTV_7aZilDed8Y6tWNxLgfSouBZ0C-eD9090eFA0SNFnjXijBu6ycJe5Lz)
 
 **Practice Platform**  
 - LeetCode (tagged Amazon, Google, Meta problems)
