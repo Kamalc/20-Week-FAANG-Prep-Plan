@@ -19,7 +19,7 @@
 - [*C# Intermediate: Classes, Interfaces and OOP* — Mosh Hamedani](https://www.udemy.com/share/1013li3@RNjXIGK2onWrhZmtFjm_iWxIi99cNJ4_iZwoAL65xAxGdZrvD7Mx01nmIiP8XAxs)
 
 **Design Patterns in C#**  
-- [*Design Patterns using C# and .NET Core*](https://www.udemy.com/share/10240a3@SreKzdrcvGzXmfvIXW_ikHfVWI9B2gsytORNwbFPiHec7r2MrABU3Mv3rXKP7kF7)
+- [*Design Patterns using C# and .NET Core*](https://www.udemy.com/share/1013nU3@N0V3jY4oFfy4LYjExCvCTeSxJ2574wDXyRZ6aPjjw58_dNIZKjnZAv779X6L30sz)
 
 **System Design**  
 - [*Rocking System Design* — Rajdeep Saha](https://www.udemy.com/share/105kui3@-e2kNGoTV_7aZilDed8Y6tWNxLgfSouBZ0C-eD9090eFA0SNFnjXijBu6ycJe5Lz)
