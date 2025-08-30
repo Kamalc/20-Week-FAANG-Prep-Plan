@@ -1,4 +1,4 @@
-# 🚀 FAANG Prep Plan — 20 Weeks
+# 🚀 FAANG Prep Plan — 12 Weeks
 
 ## 📊 Targeted Levels
 
@@ -37,44 +37,52 @@
 ### Week 1 — Kickoff & C# OOP Foundations  
 **Goal:** Establish coding rhythm, begin C++ problem solving, and start C# OOP fundamentals.
 
+## Month 1 — Core Fluency & Foundations  
+**Goal:** Build strong fundamentals in C++ problem solving, complete C# OOP, and cover system design basics.
+
+---
+
+### Week 1 — Kickoff & Class Fundamentals  
+**Focus:** C++ arrays + C# classes + system design intro
+
 - [ ] **Day 1**
   - [ ] C++: Getting Started + Problem-Solving Cycle
-  - [ ] C# OOP: About this Course + Classes → Introduction to Classes
-  - [ ] System Design: Monolith vs Microservices, API Gateway
+  - [ ] C# OOP: What You Are Going to Learn + Who Is Your Instructor
+  - [ ] System Design: Monolith vs Microservices
   - [ ] LeetCode: 2 Easy (Arrays)
   - [ ] Behavioral: Draft 1 Amazon LP story (Ownership)
 
 - [ ] **Day 2**
   - [ ] C++: Arrays → Prefix Sum
-  - [ ] C# OOP: Classes → Constructors, Object Initializers
+  - [ ] C# OOP: Classes → Introduction to Classes + Constructors
   - [ ] System Design: Load Balancing (ALB vs NLB)
-  - [ ] LeetCode: 1 Easy + 1 Medium (Prefix Sum)
+  - [ ] LeetCode: 1 Easy + 1 Medium
   - [ ] Behavioral: Draft 1 Google “Googliness” story
 
 - [ ] **Day 3**
   - [ ] C++: Arrays → Sliding Window (Fixed-size)
-  - [ ] C# OOP: Classes → Methods, Fields
-  - [ ] System Design: Scaling (Vertical vs Horizontal, Serverless)
-  - [ ] LeetCode: 2 Medium (Sliding Window)
+  - [ ] C# OOP: Classes → Fields + Properties
+  - [ ] System Design: Scaling (Vertical vs Horizontal)
+  - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Meta “Move Fast” story
 
 - [ ] **Day 4**
   - [ ] C++: Arrays → Sliding Window (Variable-size)
-  - [ ] C# OOP: Classes → Access Modifiers, Properties
-  - [ ] System Design: Caching + Redis/Memcached Strategies
+  - [ ] C# OOP: Classes → Methods + Indexers
+  - [ ] System Design: Caching + Redis/Memcached
   - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Refine Amazon LP story
 
 - [ ] **Day 5**
   - [ ] C++: Arrays → 2-Pointers
-  - [ ] C# OOP: Classes → Indexers + Summary
+  - [ ] C# OOP: Classes → Encapsulation + Practice Exercises
   - [ ] System Design: High Availability vs Fault Tolerance
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Amazon LP story (Dive Deep)
 
 - [ ] **Day 6**
   - [ ] C++: Arrays → Ad-hoc
-  - [ ] C# OOP: Association between Classes → Class Coupling, Inheritance
+  - [ ] C# OOP: Classes → Summary + Review
   - [ ] System Design: Consistent Hashing
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Review all stories this week
@@ -85,110 +93,115 @@
 
 ---
 
-### Week 2 — C# OOP Deep Dive + C++ Strings & Matrix  
-**Goal:** Build full OOP fluency in C#, continue C++ problem solving, and expand system design basics.
+### Week 2 — OOP Pillars: Association & Inheritance  
+**Focus:** C++ strings/matrix + C# association/inheritance + system design fundamentals
 
 - [ ] **Day 8**
   - [ ] C++: Strings → Part 1
-  - [ ] C# OOP: Association → Composition + Favor Composition over Inheritance
+  - [ ] C# OOP: Association → Class Coupling + Inheritance
   - [ ] System Design: CAP Theorem
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Google collaboration story
 
 - [ ] **Day 9**
   - [ ] C++: Strings → Part 2
-  - [ ] C# OOP: Inheritance → Access Modifiers, Constructors
+  - [ ] C# OOP: Association → Composition + Favor Composition over Inheritance
   - [ ] System Design: SQL vs NoSQL
   - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Draft 1 Meta ambiguity-handling story
 
 - [ ] **Day 10**
   - [ ] C++: Matrix → Part 1
-  - [ ] C# OOP: Inheritance → Upcasting, Downcasting
+  - [ ] C# OOP: Inheritance → Access Modifiers + Constructors and Inheritance
   - [ ] System Design: Queues vs PubSub
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Refine Amazon LP stories
 
 - [ ] **Day 11**
   - [ ] C++: Matrix → Part 2
-  - [ ] C# OOP: Polymorphism → Method Overriding
+  - [ ] C# OOP: Inheritance → Upcasting + Downcasting
   - [ ] System Design: Streaming vs Messaging
   - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Draft 1 Amazon LP story (Invent & Simplify)
 
 - [ ] **Day 12**
   - [ ] C++: Stack → Part 1
-  - [ ] C# OOP: Polymorphism → Abstract + Sealed Classes
+  - [ ] C# OOP: Inheritance → Boxing + Unboxing + Summary
   - [ ] System Design: WebSockets
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Google problem-solving story
 
 - [ ] **Day 13**
   - [ ] C++: Stack → Part 2
-  - [ ] C# OOP: Interfaces → What is an Interface?, Testability
+  - [ ] C# OOP: Inheritance → Exercises
   - [ ] System Design: Disaster Recovery (RPO vs RTO)
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Review all stories this week
 
 - [ ] **Day 14**
-  - [ ] Weekly Review: 3 hardest LC problems + C# Inheritance & Polymorphism recap
+  - [ ] Weekly Review: 3 hardest LC problems + C# Inheritance recap
   - [ ] Rest & reflection
 
 ---
 
-### Week 3 — C# Interfaces + C++ Priority Queue + System Design Wrap-Up  
-**Goal:** Finish C# OOP course, complete C++ stacks/queues, and wrap system design basics.
+### Week 3 — Polymorphism & Interfaces  
+**Focus:** C++ queues + C# polymorphism/interfaces + system design wrap-up
 
 - [ ] **Day 15**
   - [ ] C++: Priority Queue → Part 1
-  - [ ] C# OOP: Interfaces → Extensibility + Polymorphism
+  - [ ] C# OOP: Polymorphism → Method Overriding + Abstract Classes
   - [ ] System Design: Distributed Computing
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Meta rapid-execution story
 
 - [ ] **Day 16**
   - [ ] C++: Priority Queue → Part 2
-  - [ ] C# OOP: Interfaces → Summary + Exercises
+  - [ ] C# OOP: Polymorphism → Sealed Classes + Summary
   - [ ] System Design: Hashing + Challenges
   - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Draft 1 Amazon LP story (Bias for Action)
 
 - [ ] **Day 17**
   - [ ] C++: Priority Queue → Part 3
-  - [ ] C# OOP: Extra → StopWatch Exercise
+  - [ ] C# OOP: Polymorphism → Exercises
   - [ ] System Design: Review System Design Basics
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Refine Google stories
 
 - [ ] **Day 18**
   - [ ] C++: Linked List → Part 1
-  - [ ] C# OOP: Extra → Stack Exercise
+  - [ ] C# OOP: Interfaces → What is an Interface? + Testability
   - [ ] System Design: AWS Well-Architected Framework
   - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Draft 1 Amazon LP story (Customer Obsession)
 
 - [ ] **Day 19**
   - [ ] C++: Linked List → Part 2
-  - [ ] C# OOP: Extra → Workflow Engine Exercise
+  - [ ] C# OOP: Interfaces → Extensibility + Polymorphism
   - [ ] System Design: Three-Tier Architecture
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Meta product-impact story
 
 - [ ] **Day 20**
   - [ ] C++: Linked List → Part 3
-  - [ ] C# OOP: Final Review + Mini Project (OOP + Interfaces)
+  - [ ] C# OOP: Interfaces → Summary + Exercises
   - [ ] System Design: Three-Tier on Serverless/Kubernetes
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Review all stories this week
 
 - [ ] **Day 21**
-  - [ ] Weekly Review: 3 hardest LC problems + C# OOP full recap
+  - [ ] Weekly Review: 3 hardest LC problems + C# Polymorphism & Interfaces recap
   - [ ] Rest & reflection
 
 ---
 
-### Week 4 — Start Design Patterns + Finish C++ Core DS  
-**Goal:** Begin Design Patterns in C#, finish C++ core DS, and expand reusable system design.
+## Month 2 — Integration & Application  
+**Goal:** Finish C++ DS, master design patterns in C#, and apply concepts in system design and mock LLD.
+
+---
+
+### Week 5 — SOLID Principles & Final C++ DS  
+**Focus:** C++ binary trees + SOLID principles + system design reuse
 
 - [ ] **Day 22**
   - [ ] C++: Binary Tree → Part 1
@@ -238,26 +251,26 @@
 
 ---
 
-### Week 5 — Dependency Injection + Linked List Completion  
-**Goal:** Wrap up C++ core DS, deepen DI in C#, and continue reusable system design.
+### Week 6 — Dependency Injection & Structural Patterns  
+**Focus:** DI in C#, structural patterns, and system design security
 
 - [ ] **Day 29**
   - [ ] C++: Hash Table → Part 4
-  - [ ] Design Patterns: Dependency Injection → Intro + Custom Container
-  - [ ] System Design: Security – Encryption at Rest & Client/Server Side
+  - [ ] Design Patterns: DI → Intro + Custom Container
+  - [ ] System Design: Encryption at Rest & Client/Server Side
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Amazon LP story (Think Big)
 
 - [ ] **Day 30**
   - [ ] C++: Hash Table → Part 5
-  - [ ] Design Patterns: Dependency Injection → Built-in ASP.NET Core IoC
-  - [ ] System Design: Security – Encryption in Transit with SSL/TLS/MTLS
+  - [ ] Design Patterns: DI → Built-in ASP.NET Core IoC
+  - [ ] System Design: Encryption in Transit (SSL/TLS/MTLS)
   - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Draft 1 Google innovation story
 
 - [ ] **Day 31**
   - [ ] C++: Hash Table → Part 6
-  - [ ] Design Patterns: Dependency Injection → Singleton vs Transient vs Scoped
+  - [ ] Design Patterns: DI → Singleton vs Transient vs Scoped
   - [ ] System Design: TLS vs MTLS
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Meta collaboration story
@@ -265,21 +278,21 @@
 - [ ] **Day 32**
   - [ ] C++: Linked List → Review
   - [ ] Design Patterns: Structural → Decorator
-  - [ ] System Design: IDS vs IPS vs Security Group/NACLs
+  - [ ] System Design: IAM Roles, Security Groups, NACLs
   - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Draft 1 Amazon LP story (Frugality)
 
 - [ ] **Day 33**
   - [ ] C++: Binary Tree → Review
   - [ ] Design Patterns: Structural → Adapter
-  - [ ] System Design: Optional – Security using IAM User, Role, Group
+  - [ ] System Design: Twelve-Factor App
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Google teamwork story
 
 - [ ] **Day 34**
   - [ ] C++: Hash Table → Review
   - [ ] Design Patterns: Structural → Facade
-  - [ ] System Design: Twelve-Factor App
+  - [ ] System Design: Twelve-Factor App Interview Q&A
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Review all stories this week
 
@@ -289,237 +302,198 @@
 
 ---
 
-### Week 6 — Structural Patterns + Composite & Proxy  
-**Goal:** Apply structural patterns in C#, reinforce system design security, and prep for behavioral interviews.
+### Week 7 — Behavioral Patterns & System Design Projects  
+**Focus:** Finalize patterns, apply in mock LLD, and build system design fluency
 
 - [ ] **Day 36**
-  - [ ] Design Patterns: Structural → Composite
-  - [ ] System Design: Twelve-Factor App Interview Q&A
+  - [ ] Design Patterns: Structural → Composite + Proxy
+  - [ ] System Design: Cell-Based Architecture
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Amazon LP story (Are Right, A Lot)
 
 - [ ] **Day 37**
-  - [ ] Design Patterns: Structural → Proxy
-  - [ ] System Design: Cell-Based Architecture
+  - [ ] Design Patterns: Behavioral → Strategy + Observer
+  - [ ] System Design: MUST Knows for System Design Interviews
   - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Draft 1 Google leadership story
 
 - [ ] **Day 38**
-  - [ ] Design Patterns: Behavioral → Strategy
-  - [ ] System Design: MUST Knows for System Design Interviews
+  - [ ] Design Patterns: Behavioral → Command + Template Method
+  - [ ] System Design: Using Timestamps
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Meta innovation story
 
 - [ ] **Day 39**
-  - [ ] Design Patterns: Behavioral → Observer
-  - [ ] System Design: Using Timestamps
+  - [ ] Design Patterns: Behavioral → State Pattern
+  - [ ] System Design: Design YouTube / Netflix / Prime Video
   - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Draft 1 Amazon LP story (Deliver Results)
 
 - [ ] **Day 40**
-  - [ ] Design Patterns: Behavioral → Command
-  - [ ] System Design: Design YouTube / Netflix / Prime Video
+  - [ ] Design Patterns: Mixed pattern application drill
+  - [ ] System Design: Design Twitter
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Google problem-solving story
 
 - [ ] **Day 41**
-  - [ ] Design Patterns: Behavioral → Template Method
-  - [ ] System Design: Design Twitter
+  - [ ] Design Patterns: Mock interview — explain and implement a pattern live
+  - [ ] System Design: Design WhatsApp / Telegram / Snapchat
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Review all stories this week
 
 - [ ] **Day 42**
-  - [ ] Weekly Review: 3 hardest LC problems + Structural & Behavioral Patterns recap
-  - [ ] Rest & reflection
-
----
-
-### Week 7 — Behavioral Patterns Wrap-Up + System Design Applications  
-**Goal:** Finalize design patterns, apply them in system design, and prep for mock interviews.
-
-- [ ] **Day 43**
-  - [ ] Design Patterns: Behavioral → State Pattern
-  - [ ] System Design: Design WhatsApp / Telegram / Snapchat
-  - [ ] LeetCode: 2 Medium
-  - [ ] Behavioral: Draft 1 Amazon LP story (Invent & Simplify)
-
-- [ ] **Day 44**
-  - [ ] Design Patterns: Mixed pattern application drill
-  - [ ] System Design: Design Tinder
-  - [ ] LeetCode: 1 Medium + 1 Hard
-  - [ ] Behavioral: Draft 1 Google adaptability story
-
-- [ ] **Day 45**
-  - [ ] Design Patterns: Mock interview — explain and implement a pattern live
-  - [ ] System Design: Design Uber
-  - [ ] LeetCode: 2 Medium
-  - [ ] Behavioral: Draft 1 Meta leadership story
-
-- [ ] **Day 46**
-  - [ ] Design Patterns: Pattern selection speed drills
-  - [ ] System Design: Design Fandango / Ticketmaster / Livenation
-  - [ ] LeetCode: 1 Medium + 1 Hard
-  - [ ] Behavioral: Draft 1 Amazon LP story (Dive Deep)
-
-- [ ] **Day 47**
-  - [ ] Design Patterns: Final review of all patterns
-  - [ ] System Design: IoT System Design
-  - [ ] LeetCode: 2 Medium
-  - [ ] Behavioral: Draft 1 Google problem-solving story
-
-- [ ] **Day 48**
-  - [ ] Design Patterns: Apply patterns in a mini C# system design project
-  - [ ] System Design: Design Shopify
-  - [ ] LeetCode: 2 Medium
-  - [ ] Behavioral: Review all stories this week
-
-- [ ] **Day 49**
   - [ ] Weekly Review: 3 hardest LC problems + full design pattern recap
   - [ ] Rest & reflection
 
 ---
 
-### Week 8 — Finalize C++ + Pattern Integration  
-**Goal:** Wrap up C++ core DS, integrate design patterns into system design, and prep for simulation mode.
+### Week 8 — Real-World Code Reviews & LLD Projects  
+**Goal:** Apply C# OOP + patterns in mini-projects, finalize system design basics, and prep for simulation mode.
 
 - [ ] **Day 50**
-  - [ ] C++: After-Course Problem-Solving Sprints (part 1)
-  - [ ] Design Patterns: Review Creational Patterns (Singleton, Factory, Object Pool)
-  - [ ] System Design: Design URL Shortener / TinyURL
+  - [ ] C# OOP: Extra → Real-world Code Examples
+  - [ ] System Design: Design Tinder
   - [ ] LeetCode: 2 Medium
-  - [ ] Behavioral: Draft 1 Amazon LP story (Hire and Develop the Best)
-
-- [ ] **Day 51**
-  - [ ] C++: After-Course Problem-Solving Sprints (part 2)
-  - [ ] Design Patterns: Review Structural Patterns (Decorator, Adapter, Facade, Composite, Proxy)
-  - [ ] System Design: Design Parking Garage
-  - [ ] LeetCode: 1 Medium + 1 Hard
-  - [ ] Behavioral: Draft 1 Google innovation story
-
-- [ ] **Day 52**
-  - [ ] C++: After-Course Problem-Solving Sprints (part 3)
-  - [ ] Design Patterns: Review Behavioral Patterns (Strategy, Observer, Command, Template Method, State)
-  - [ ] System Design: Design Amazon.com / Flipkart
-  - [ ] LeetCode: 2 Medium
-  - [ ] Behavioral: Draft 1 Meta product-impact story
-
-- [ ] **Day 53**
-  - [ ] C++: Review Arrays, Strings, Matrix
-  - [ ] Design Patterns: Mixed pattern application drill
-  - [ ] System Design: Open-ended design prompt (self-chosen)
-  - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Draft 1 Amazon LP story (Invent & Simplify)
 
-- [ ] **Day 54**
-  - [ ] C++: Review Stack, Priority Queue, Linked List
-  - [ ] Design Patterns: Mock interview — explain and implement a pattern live
-  - [ ] System Design: Real-Time Analytics Dashboard
+- [ ] **Day 51**
+  - [ ] C# OOP: Extra → Instructor Feedback
+  - [ ] System Design: Design Uber
+  - [ ] LeetCode: 1 Medium + 1 Hard
+  - [ ] Behavioral: Draft 1 Google adaptability story
+
+- [ ] **Day 52**
+  - [ ] C# OOP: What's Next → Final Words + Bonus
+  - [ ] System Design: Design Fandango / Ticketmaster / Livenation
   - [ ] LeetCode: 2 Medium
-  - [ ] Behavioral: Draft 1 Google collaboration story
+  - [ ] Behavioral: Draft 1 Meta leadership story
+
+- [ ] **Day 53**
+  - [ ] Mini Project: Apply OOP + 2–3 patterns in a C# console app
+  - [ ] System Design: IoT System Design
+  - [ ] LeetCode: 1 Medium + 1 Hard
+  - [ ] Behavioral: Draft 1 Amazon LP story (Dive Deep)
+
+- [ ] **Day 54**
+  - [ ] Mini Project: Add unit tests + UML diagrams
+  - [ ] System Design: Design Shopify
+  - [ ] LeetCode: 2 Medium
+  - [ ] Behavioral: Draft 1 Google problem-solving story
 
 - [ ] **Day 55**
-  - [ ] C++: Review Binary Tree and Hash Table
-  - [ ] Design Patterns: Final review of all patterns
-  - [ ] System Design: Recommendation Engine
+  - [ ] Mini Project: Finalize + document
+  - [ ] System Design: Design URL Shortener / TinyURL
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Review all stories this week
 
 - [ ] **Day 56**
-  - [ ] Weekly Review: 3 hardest LC problems + full design pattern recap
-  - [ ] Rest & reflection
+  - [ ] Weekly Review:
+    - [ ] 3 hardest LC problems  
+    - [ ] Mini project recap  
+    - [ ] Final C# OOP reflection  
+    - [ ] Rest & mental reset
+
+---
+
+## Month 3 — Simulation & Execution  
+**Goal:** Simulate real interviews, refine delivery, and apply to top tech companies.
 
 ---
 
 ### Week 9 — Simulation Mode Kickoff  
-**Goal:** Transition from structured study to interview-style performance. Begin Modern Applications in System Design.
+**Focus:** Timed coding drills, mock LLD, and modern system design
 
 - [ ] **Day 57**
   - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
   - [ ] System Design: Design YouTube / Netflix / Prime Video
-  - [ ] OOP/Patterns: Apply Strategy Pattern in a mock LLD problem
+  - [ ] LLD: Apply Strategy Pattern in a mock problem
   - [ ] Behavioral: Amazon LP — Ownership
 
 - [ ] **Day 58**
-  - [ ] Coding: 2 Medium (Google-style, focus on optimality)
+  - [ ] Coding: 2 Medium (Google-style, optimality focus)
   - [ ] System Design: Design Twitter
-  - [ ] OOP/Patterns: Apply Observer Pattern in a mock LLD problem
+  - [ ] LLD: Apply Observer Pattern in a mock problem
   - [ ] Behavioral: Google — Collaboration
 
 - [ ] **Day 59**
-  - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed 35 min each)
+  - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed)
   - [ ] System Design: Design WhatsApp / Telegram / Snapchat
-  - [ ] OOP/Patterns: Apply Command Pattern in a mock LLD problem
+  - [ ] LLD: Apply Command Pattern in a mock problem
   - [ ] Behavioral: Meta — Autonomy
 
 - [ ] **Day 60**
   - [ ] Coding: 2 Medium (Amazon-style)
   - [ ] System Design: Design Tinder
-  - [ ] OOP/Patterns: Apply Template Method in a mock LLD problem
+  - [ ] LLD: Apply Template Method in a mock problem
   - [ ] Behavioral: Amazon LP — Dive Deep
 
 - [ ] **Day 61**
   - [ ] Coding: 1 Hard + 1 Medium (Google-style)
   - [ ] System Design: Design Uber
-  - [ ] OOP/Patterns: Apply State Pattern in a mock LLD problem
+  - [ ] LLD: Apply State Pattern in a mock problem
   - [ ] Behavioral: Google — Problem-Solving
 
 - [ ] **Day 62**
   - [ ] Coding: 2 Medium (Meta-style, timed)
   - [ ] System Design: Design Fandango / Ticketmaster / Livenation
-  - [ ] OOP/Patterns: Mixed pattern application drill
-  - [ ] Behavioral: Meta — Moving Fast
+  - [ ] LLD: Mixed pattern application drill
+  - [ ] Behavioral: Meta — Move Fast
 
 - [ ] **Day 63**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 full mock interview (coding + design + behavioral)
+  - [ ] Weekly Review:
+    - [ ] 3 hardest LC problems  
+    - [ ] 1 full mock interview (coding + design + behavioral)
 
 ---
 
 ### Week 10 — Deepening Simulation  
-**Goal:** Increase realism of mocks, refine trade-off discussions, and strengthen behavioral delivery.
+**Focus:** Full mock loops, trade-off discussions, and behavioral polish
 
 - [ ] **Day 64**
   - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
   - [ ] System Design: IoT System Design
-  - [ ] OOP/Patterns: Review Creational Patterns in C#
+  - [ ] LLD: Review Creational Patterns
   - [ ] Behavioral: Amazon LP — Customer Obsession
 
 - [ ] **Day 65**
   - [ ] Coding: 2 Medium (Google-style)
   - [ ] System Design: Design Shopify
-  - [ ] OOP/Patterns: Review Structural Patterns in C#
+  - [ ] LLD: Review Structural Patterns
   - [ ] Behavioral: Google — Learning Mindset
 
 - [ ] **Day 66**
   - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed)
   - [ ] System Design: Design URL Shortener / TinyURL
-  - [ ] OOP/Patterns: Review Behavioral Patterns in C#
+  - [ ] LLD: Review Behavioral Patterns
   - [ ] Behavioral: Meta — Product Impact
 
 - [ ] **Day 67**
   - [ ] Coding: 2 Medium (Amazon-style)
   - [ ] System Design: Design Parking Garage
-  - [ ] OOP/Patterns: Pattern selection drills
+  - [ ] LLD: Pattern selection drills
   - [ ] Behavioral: Amazon LP — Insist on Highest Standards
 
 - [ ] **Day 68**
   - [ ] Coding: 1 Hard + 1 Medium (Google-style)
   - [ ] System Design: Design Amazon.com / Flipkart
-  - [ ] OOP/Patterns: Apply multiple patterns in a single mock LLD
+  - [ ] LLD: Apply multiple patterns in a single mock
   - [ ] Behavioral: Google — Collaboration
 
 - [ ] **Day 69**
   - [ ] Coding: 2 Medium (Meta-style, timed)
   - [ ] System Design: Open-ended design prompt (self-chosen)
-  - [ ] OOP/Patterns: Mock interview — explain and implement a pattern live
+  - [ ] LLD: Mock interview — explain and implement a pattern live
   - [ ] Behavioral: Meta — Handling Ambiguity
 
 - [ ] **Day 70**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 full mock interview (coding + design + behavioral)
+  - [ ] Weekly Review:
+    - [ ] 3 hardest LC problems  
+    - [ ] 1 full mock interview (coding + design + behavioral)
 
 ---
 
 ### Week 11 — Mixed Company Drills  
-**Goal:** Rotate between Amazon, Google, and Meta interview styles daily.
+**Focus:** Rotate styles across Amazon, Google, and Meta
 
 - [ ] **Day 71**
   - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
@@ -538,7 +512,7 @@
 
 - [ ] **Day 74**
   - [ ] Coding: 2 Medium (Amazon-style)
-  - [ ] System Design: Amazon-style operationally heavy design
+  - [ ] System Design: Amazon-style operational design
   - [ ] Behavioral: Amazon LP — Deliver Results
 
 - [ ] **Day 75**
@@ -552,12 +526,15 @@
   - [ ] Behavioral: Meta — Product Impact
 
 - [ ] **Day 77**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 full mock interview (coding + design + behavioral)
+  - [ ] Weekly Review:
+    - [ ] 3 hardest LC problems  
+    - [ ] 1 full mock interview (coding + design + behavioral)
+
 
 ---
 
-### Week 12 — Full Loop Simulations  
-**Goal:** Simulate complete interview loops for each company.
+### Week 12 — Final Loop & Execution  
+**Goal:** Simulate full interviews, polish delivery, and enter interviews at peak performance.
 
 - [ ] **Day 78**
   - [ ] Full Amazon Loop:
@@ -596,315 +573,8 @@
   - [ ] Behavioral: Final polish of all stories
 
 - [ ] **Day 84**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 final full mock interview (coding + design + behavioral)
-
----
-
-### Week 13 — Peak & Apply: Amazon Focus  
-**Goal:** Maintain sharpness, target Amazon’s style, and start sending applications.
-
-- [ ] **Day 85**
-  - [ ] Coding: 2 Medium (Amazon-style, LP-aligned problems)
-  - [ ] System Design: Order Tracking System
-  - [ ] Behavioral: Amazon LP — Customer Obsession
-  - [ ] Action: Update Amazon resume and apply
-
-- [ ] **Day 86**
-  - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
-  - [ ] System Design: Notification Service
-  - [ ] Behavioral: Amazon LP — Dive Deep
-
-- [ ] **Day 87**
-  - [ ] Coding: 2 Medium (Amazon-style)
-  - [ ] System Design: Inventory Management System
-  - [ ] Behavioral: Amazon LP — Deliver Results
-
-- [ ] **Day 88**
-  - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
-  - [ ] System Design: Payment Processing Service
-  - [ ] Behavioral: Amazon LP — Bias for Action
-
-- [ ] **Day 89**
-  - [ ] Coding: 2 Medium (Amazon-style)
-  - [ ] System Design: URL Shortener (Amazon-style trade-offs)
-  - [ ] Behavioral: Amazon LP — Invent & Simplify
-
-- [ ] **Day 90**
-  - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
-  - [ ] System Design: Chat Messaging Service
-  - [ ] Behavioral: Amazon LP — Earn Trust
-
-- [ ] **Day 91**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 full Amazon mock loop
-
----
-
-### Week 14 — Peak & Apply: Google Focus  
-**Goal:** Maintain sharpness, target Google’s style, and send applications.
-
-- [ ] **Day 92**
-  - [ ] Coding: 2 Medium (Google-style, optimality focus)
-  - [ ] System Design: Autocomplete Service
-  - [ ] Behavioral: Google — Problem-Solving
-  - [ ] Action: Update Google resume and apply
-
-- [ ] **Day 93**
-  - [ ] Coding: 1 Hard + 1 Medium (Google-style)
-  - [ ] System Design: Search Ranking Service
-  - [ ] Behavioral: Google — Collaboration
-
-- [ ] **Day 94**
-  - [ ] Coding: 2 Medium (Google-style)
-  - [ ] System Design: Distributed Caching Layer
-  - [ ] Behavioral: Google — Learning Mindset
-
-- [ ] **Day 95**
-  - [ ] Coding: 1 Hard + 1 Medium (Google-style)
-  - [ ] System Design: Real-Time Analytics Dashboard
-  - [ ] Behavioral: Google — Communication
-
-- [ ] **Day 96**
-  - [ ] Coding: 2 Medium (Google-style)
-  - [ ] System Design: Image Processing Pipeline
-  - [ ] Behavioral: Google — Adaptability
-
-- [ ] **Day 97**
-  - [ ] Coding: 1 Hard + 1 Medium (Google-style)
-  - [ ] System Design: Recommendation Engine
-  - [ ] Behavioral: Google — Leadership
-
-- [ ] **Day 98**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 full Google mock loop
-
----
-
-### Week 15 — Peak & Apply: Meta Focus  
-**Goal:** Maintain sharpness, target Meta’s style, and send applications.
-
-- [ ] **Day 99**
-  - [ ] Coding: 2 Medium (Meta-style, timed)
-  - [ ] System Design: News Feed Ranking
-  - [ ] Behavioral: Meta — Move Fast
-  - [ ] Action: Update Meta resume and apply
-
-- [ ] **Day 100**
-  - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed)
-  - [ ] System Design: Messaging Service with Read Receipts
-  - [ ] Behavioral: Meta — Be Bold
-
-- [ ] **Day 101**
-  - [ ] Coding: 2 Medium (Meta-style, timed)
-  - [ ] System Design: Video Streaming Service
-  - [ ] Behavioral: Meta — Focus on Impact
-
-- [ ] **Day 102**
-  - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed)
-  - [ ] System Design: Marketplace Platform
-  - [ ] Behavioral: Meta — Build Awesome Things
-
-- [ ] **Day 103**
-  - [ ] Coding: 2 Medium (Meta-style, timed)
-  - [ ] System Design: Event Management System
-  - [ ] Behavioral: Meta — Live in the Future
-
-- [ ] **Day 104**
-  - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed)
-  - [ ] System Design: Social Graph Service
-  - [ ] Behavioral: Meta — Embrace Ambiguity
-
-- [ ] **Day 105**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 full Meta mock loop
-
----
-
-### Week 16 — Final Mixed Review & Interview Readiness  
-**Goal:** Light review, maintain speed, and enter interviews at peak performance.
-
-- [ ] **Day 106**
-  - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
-  - [ ] System Design: Amazon-style operational design
-  - [ ] Behavioral: Amazon LP — Deliver Results
-
-- [ ] **Day 107**
-  - [ ] Coding: 2 Medium (Google-style)
-  - [ ] System Design: Google-style trade-off heavy design
-  - [ ] Behavioral: Google — Problem-Solving
-
-- [ ] **Day 108**
-  - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed)
-  - [ ] System Design: Meta-style product-driven design
-  - [ ] Behavioral: Meta — Move Fast
-
-- [ ] **Day 109**
-  - [ ] Coding: 2 Medium (Amazon-style)
-  - [ ] System Design: Amazon-style mid-scale service
-  - [ ] Behavioral: Amazon LP — Invent & Simplify
-
-- [ ] **Day 110**
-  - [ ] Coding: 1 Hard + 1 Medium (Google-style)
-  - [ ] System Design: Google-style smaller-scale design
-  - [ ] Behavioral: Google — Collaboration
-
-- [ ] **Day 111**
-  - [ ] Coding: 2 Medium (Meta-style, timed)
-  - [ ] System Design: Meta-style large-scale product feature
-  - [ ] Behavioral: Meta — Product Impact
-
-- [ ] **Day 112**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 mixed-style full mock interview
-
----
-
-### Week 17 — Final Sprint: Amazon Emphasis  
-**Goal:** Maintain sharpness, focus on Amazon LPs, and keep coding speed high.
-
-- [ ] **Day 113**
-  - [ ] Coding: 2 Medium (Amazon-style, LP-aligned)
-  - [ ] System Design: Order Tracking System
-  - [ ] Behavioral: Amazon LP — Customer Obsession
-
-- [ ] **Day 114**
-  - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
-  - [ ] System Design: Notification Service
-  - [ ] Behavioral: Amazon LP — Dive Deep
-
-- [ ] **Day 115**
-  - [ ] Coding: 2 Medium (Amazon-style)
-  - [ ] System Design: Inventory Management System
-  - [ ] Behavioral: Amazon LP — Deliver Results
-
-- [ ] **Day 116**
-  - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
-  - [ ] System Design: Payment Processing Service
-  - [ ] Behavioral: Amazon LP — Bias for Action
-
-- [ ] **Day 117**
-  - [ ] Coding: 2 Medium (Amazon-style)
-  - [ ] System Design: URL Shortener (Amazon-style trade-offs)
-  - [ ] Behavioral: Amazon LP — Invent & Simplify
-
-- [ ] **Day 118**
-  - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
-  - [ ] System Design: Chat Messaging Service
-  - [ ] Behavioral: Amazon LP — Earn Trust
-
-- [ ] **Day 119**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 full Amazon mock loop
-
----
-
-### Week 18 — Final Sprint: Google Emphasis  
-**Goal:** Maintain sharpness, focus on Google’s optimality and collaboration.
-
-- [ ] **Day 120**
-  - [ ] Coding: 2 Medium (Google-style, optimality focus)
-  - [ ] System Design: Autocomplete Service
-  - [ ] Behavioral: Google — Problem-Solving
-
-- [ ] **Day 121**
-  - [ ] Coding: 1 Hard + 1 Medium (Google-style)
-  - [ ] System Design: Search Ranking Service
-  - [ ] Behavioral: Google — Collaboration
-
-- [ ] **Day 122**
-  - [ ] Coding: 2 Medium (Google-style)
-  - [ ] System Design: Distributed Caching Layer
-  - [ ] Behavioral: Google — Learning Mindset
-
-- [ ] **Day 123**
-  - [ ] Coding: 1 Hard + 1 Medium (Google-style)
-  - [ ] System Design: Real-Time Analytics Dashboard
-  - [ ] Behavioral: Google — Communication
-
-- [ ] **Day 124**
-  - [ ] Coding: 2 Medium (Google-style)
-  - [ ] System Design: Image Processing Pipeline
-  - [ ] Behavioral: Google — Adaptability
-
-- [ ] **Day 125**
-  - [ ] Coding: 1 Hard + 1 Medium (Google-style)
-  - [ ] System Design: Recommendation Engine
-  - [ ] Behavioral: Google — Leadership
-
-- [ ] **Day 126**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 full Google mock loop
-
----
-
-### Week 19 — Final Sprint: Meta Emphasis  
-**Goal:** Maintain sharpness, focus on Meta’s speed and product impact.
-
-- [ ] **Day 127**
-  - [ ] Coding: 2 Medium (Meta-style, timed)
-  - [ ] System Design: News Feed Ranking
-  - [ ] Behavioral: Meta — Move Fast
-
-- [ ] **Day 128**
-  - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed)
-  - [ ] System Design: Messaging Service with Read Receipts
-  - [ ] Behavioral: Meta — Be Bold
-
-- [ ] **Day 129**
-  - [ ] Coding: 2 Medium (Meta-style, timed)
-  - [ ] System Design: Video Streaming Service
-  - [ ] Behavioral: Meta — Focus on Impact
-
-- [ ] **Day 130**
-  - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed)
-  - [ ] System Design: Marketplace Platform
-  - [ ] Behavioral: Meta — Build Awesome Things
-
-- [ ] **Day 131**
-  - [ ] Coding: 2 Medium (Meta-style, timed)
-  - [ ] System Design: Event Management System
-  - [ ] Behavioral: Meta — Live in the Future
-
-- [ ] **Day 132**
-  - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed)
-  - [ ] System Design: Social Graph Service
-  - [ ] Behavioral: Meta — Embrace Ambiguity
-
-- [ ] **Day 133**
-  - [ ] Weekly Review: 3 hardest LC problems + 1 full Meta mock loop
-
----
-
-### Week 20 — Final Execution & Interview Readiness  
-**Goal:** Light review, maintain speed, and enter interviews at peak performance.
-
-- [ ] **Day 134**
-  - [ ] Coding: 1 Hard + 1 Medium (Amazon-style)
-  - [ ] System Design: Amazon-style operational design
-  - [ ] Behavioral: Amazon LP — Deliver Results
-
-- [ ] **Day 135**
-  - [ ] Coding: 2 Medium (Google-style)
-  - [ ] System Design: Google-style trade-off heavy design
-  - [ ] Behavioral: Google — Problem-Solving
-
-- [ ] **Day 136**
-  - [ ] Coding: 1 Hard + 1 Medium (Meta-style, timed)
-  - [ ] System Design: Meta-style product-driven design
-  - [ ] Behavioral: Meta — Move Fast
-
-- [ ] **Day 137**
-  - [ ] Coding: 2 Medium (Amazon-style)
-  - [ ] System Design: Amazon-style mid-scale service
-  - [ ] Behavioral: Amazon LP — Invent & Simplify
-
-- [ ] **Day 138**
-  - [ ] Coding: 1 Hard + 1 Medium (Google-style)
-  - [ ] System Design: Google-style smaller-scale design
-  - [ ] Behavioral: Google — Collaboration
-
-- [ ] **Day 139**
-  - [ ] Coding: 2 Medium (Meta-style, timed)
-  - [ ] System Design: Meta-style large-scale product feature
-  - [ ] Behavioral: Meta — Product Impact
-
-- [ ] **Day 140**
   - [ ] Final Review Day:
-    - [ ] Revisit all behavioral stories
-    - [ ] Light system design review (key trade-offs, scaling patterns)
-    - [ ] Solve 3 mixed-style LC problems (1 Easy, 1 Medium, 1 Hard)
+    - [ ] Revisit all behavioral stories  
+    - [ ] Light system design review (key trade-offs, scaling patterns)  
+    - [ ] Solve 3 mixed-style LC problems (1 Easy, 1 Medium, 1 Hard)  
     - [ ] Rest & mental prep for interviews
