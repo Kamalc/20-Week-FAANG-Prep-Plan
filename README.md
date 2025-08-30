@@ -47,42 +47,42 @@
 
 - [ ] **Day 1**
   - [ ] C++: Getting Started + Problem-Solving Cycle
-  - [ ] C# OOP: What You Are Going to Learn + Who Is Your Instructor
+  - [x] C# OOP: What You Are Going to Learn + Who Is Your Instructor
   - [ ] System Design: Monolith vs Microservices
   - [ ] LeetCode: 2 Easy (Arrays)
   - [ ] Behavioral: Draft 1 Amazon LP story (Ownership)
 
 - [ ] **Day 2**
   - [ ] C++: Arrays → Prefix Sum
-  - [ ] C# OOP: Classes → Introduction to Classes + Constructors
+  - [x] C# OOP: Classes → Introduction to Classes + Constructors
   - [ ] System Design: Load Balancing (ALB vs NLB)
   - [ ] LeetCode: 1 Easy + 1 Medium
   - [ ] Behavioral: Draft 1 Google “Googliness” story
 
 - [ ] **Day 3**
   - [ ] C++: Arrays → Sliding Window (Fixed-size)
-  - [ ] C# OOP: Classes → Fields + Properties
+  - [x] C# OOP: Classes → Fields + Properties
   - [ ] System Design: Scaling (Vertical vs Horizontal)
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Meta “Move Fast” story
 
 - [ ] **Day 4**
   - [ ] C++: Arrays → Sliding Window (Variable-size)
-  - [ ] C# OOP: Classes → Methods + Indexers
+  - [x] C# OOP: Classes → Methods + Indexers
   - [ ] System Design: Caching + Redis/Memcached
   - [ ] LeetCode: 1 Medium + 1 Hard
   - [ ] Behavioral: Refine Amazon LP story
 
 - [ ] **Day 5**
   - [ ] C++: Arrays → 2-Pointers
-  - [ ] C# OOP: Classes → Encapsulation + Practice Exercises
+  - [x] C# OOP: Classes → Encapsulation + Practice Exercises
   - [ ] System Design: High Availability vs Fault Tolerance
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Draft 1 Amazon LP story (Dive Deep)
 
 - [ ] **Day 6**
   - [ ] C++: Arrays → Ad-hoc
-  - [ ] C# OOP: Classes → Summary + Review
+  - [x] C# OOP: Classes → Summary + Review
   - [ ] System Design: Consistent Hashing
   - [ ] LeetCode: 2 Medium
   - [ ] Behavioral: Review all stories this week
